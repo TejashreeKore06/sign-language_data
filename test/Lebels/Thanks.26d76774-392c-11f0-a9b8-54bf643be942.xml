@@ -1,0 +1,26 @@
+<annotation>
+	<folder>allimages</folder>
+	<filename>Thanks.26d76774-392c-11f0-a9b8-54bf643be942.jpg</filename>
+	<path>C:\Users\dell\Desktop\JOB\Sign_langauge\allimages\Thanks.26d76774-392c-11f0-a9b8-54bf643be942.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Thanks</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>62</xmin>
+			<ymin>183</ymin>
+			<xmax>602</xmax>
+			<ymax>399</ymax>
+		</bndbox>
+	</object>
+</annotation>
