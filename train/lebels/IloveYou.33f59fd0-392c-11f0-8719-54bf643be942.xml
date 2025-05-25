@@ -1,0 +1,26 @@
+<annotation>
+	<folder>allimages</folder>
+	<filename>IloveYou.33f59fd0-392c-11f0-8719-54bf643be942.jpg</filename>
+	<path>C:\Users\dell\Desktop\JOB\Sign_langauge\allimages\IloveYou.33f59fd0-392c-11f0-8719-54bf643be942.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>IloveYou</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>17</xmin>
+			<ymin>53</ymin>
+			<xmax>332</xmax>
+			<ymax>367</ymax>
+		</bndbox>
+	</object>
+</annotation>
